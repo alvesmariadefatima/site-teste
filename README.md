@@ -1,2 +1,2 @@
-# projetinhos-pessoais-frontend
-Repositório criado para armazenar projetos pessoais na área do Front-End.
+# Site Teste 
+Repositório criado para armazenar os arquivos nas quais compõem o site teste feito em HTML.
